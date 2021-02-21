@@ -1,0 +1,17 @@
+body{
+    background-image: url('background.jpg');
+    text-align: center;
+    margin-bottom: 80px;
+}
+h2{
+    color:#FF0000;
+    font-size: 50px;
+    font-weight:lighter;
+    font-family:"Passion one";
+}
+
+ul{
+    list-style-type: circle;
+}
+
+    
